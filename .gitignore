@@ -1,0 +1,15 @@
+# Editor e sistema operacional
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Segredos, dados locais e artefatos
+.env
+.env.*
+!.env.example
+*.pcap
+*.pcapng
+*.log
+*.tmp
+*.swp
